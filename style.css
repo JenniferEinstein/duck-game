@@ -1,0 +1,12 @@
+canvas {
+    background-color: black;
+    width: 70%;
+}
+
+
+body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
